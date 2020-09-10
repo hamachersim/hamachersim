@@ -45,11 +45,9 @@
 
 <br />
 <br />
-
-### Latest Projects
-- Barchiograph
-![Barchiograph](https://media.giphy.com/media/KAFYCkILawDdcPQ9Q9/giphy.gif)
 -->
+<br />
+<br />
 
 ### 📺 Latest YouTube Videos
 
