@@ -1,12 +1,16 @@
 ### Hi there, I'm Simon - [SHamacher](https://shamacher.eu) 👋
 ---
 
-### 📺 Latest YouTube Videos
+### :tv: Latest YouTube Videos
 <!-- YOUTUBE:START -->
+➡️ [BEER BOTTLE manipulation ROBOT - Master Thesis demo](https://www.youtube.com/watch?v=Q1APnbt7Trk)<br>
 ➡️ [Brachiograph - Impressive BUDGET Plotter [4K]](https://www.youtube.com/watch?v=aZvqsOAe5QI&t)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg)
 
+### :pencil2: Latest Blogposts
+➡️ [Master Thesis - Autonomous systems](https://shamacher.eu/blog/master-thesis/) <br>
+➡️ [Brachiograph - Simple and intuitive Pen plotter](https://shamacher.eu/blog/brachiograph/)
 
 [website]: https://SHamacher.eu
 [youtube]: https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg
