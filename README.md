@@ -1,4 +1,5 @@
 ### Hi there, I'm Simon - [SHamacher](https://shamacher.eu) 👋
+![Logo1](https://shamacher.eu/images/logo/logo_short_black_whiteback.png)
 ---
 
 ### :tv: Latest YouTube Videos
