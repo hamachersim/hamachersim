@@ -15,7 +15,6 @@
 
 [website]: https://SHamacher.eu
 [youtube]: https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg
-[instagram]: https://www.instagram.com/simon.hamacher.photography/
 [linkedin]: https://www.linkedin.com/in/simon-hamacher/
 
 ---
