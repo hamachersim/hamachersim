@@ -1,27 +1,44 @@
-### Hi there, I'm Simon - [SHamacher](https://shamacher.eu) 👋
-![Logo1](https://shamacher.eu/images/logo/logo_short_black_whiteback.png)
+<h1 align="center">👋 Hi there, I'm <a href="https://shamacher.eu" target="_blank">Simon Hamacher</a></h1>
+
+<p align="center">
+  <a href="https://shamacher.eu">
+    <img src="https://shamacher.eu/images/logo/logo_short_black_whiteback.png" alt="Logo" width="180">
+  </a>
+</p>
+
 ---
 
-### :tv: Latest YouTube Videos
+### 🎥 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-:arrow_right: [BEER BOTTLE manipulation ROBOT - Master Thesis demo](https://www.youtube.com/watch?v=Q1APnbt7Trk)<br>
-:arrow_right: [Brachiograph - Impressive BUDGET Plotter [4K]](https://www.youtube.com/watch?v=aZvqsOAe5QI&t)
+- ▶️ [**BEER BOTTLE Manipulation ROBOT — Master Thesis Demo**](https://www.youtube.com/watch?v=Q1APnbt7Trk)
+- ▶️ [**Brachiograph — Impressive BUDGET Plotter [4K]**](https://www.youtube.com/watch?v=aZvqsOAe5QI&t)
 <!-- YOUTUBE:END -->
-:arrow_right: [more videos...](https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg)
-
-### :pencil2: Latest Blogposts
-:arrow_right: [Master Thesis - Autonomous systems](https://shamacher.eu/blog/master-thesis/) <br>
-:arrow_right: [Brachiograph - Simple and intuitive Pen plotter](https://shamacher.eu/blog/brachiograph/)
-
-[website]: https://SHamacher.eu
-[youtube]: https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg
-[linkedin]: https://www.linkedin.com/in/simon-hamacher/
+➡️ [**More videos on YouTube...**](https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg)
 
 ---
-### Connect with me:
 
-[<img align="left" alt="SHamacher.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="SHamacher | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="SHamacher | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📝 Latest Blog Posts
+- 🧠 [**Master Thesis — Autonomous Systems**](https://shamacher.eu/blog/master-thesis/)
+- ✍️ [**Brachiograph — Simple and Intuitive Pen Plotter**](https://shamacher.eu/blog/brachiograph/)
 
+---
 
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://shamacher.eu" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-shamacher.eu-blue?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://www.youtube.com/channel/UCGROWqkKZqF1WLSkykM7emg" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-SHamacher-red?style=flat-square&logo=youtube">
+  </a>
+  <a href="https://www.linkedin.com/in/simon-hamacher/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simon%20Hamacher-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Building cool things at the intersection of robotics, automation, and creativity.”</i>
+</p>
