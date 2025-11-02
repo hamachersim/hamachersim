@@ -35,6 +35,9 @@
   <a href="https://www.linkedin.com/in/simon-hamacher/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Simon%20Hamacher-blue?style=flat-square&logo=linkedin">
   </a>
+  <a href="mailto:simon@shamacher.eu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-simon%40shamacher.eu-yellow?style=flat-square&logo=gmail">
+  </a>
 </p>
 
 ---
